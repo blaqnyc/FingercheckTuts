@@ -1,0 +1,88 @@
+body{
+	background-color: #fcfafa;
+	font-family: Verdana;
+	margin: 0;
+	padding: 0;
+}
+
+.sidebar {
+	background-color: #2fb24c;
+	color: white;
+	width:250px;
+	height:100%;
+	float: left;
+	position: fixed;
+}
+
+.sidebar li {
+	list-style-type: none;
+}
+
+.logo-container{
+	width: 100%;
+}
+
+.top-logo{
+	width: 40%;
+	left: 60%;
+	margin-left:-80px;
+	position: absolute;
+	top: 10px;
+	border-color: white;
+	background-color: white;
+	border-radius: 60px;
+}
+
+.bottom-logo{
+	width: 60%;
+	left: 40%;
+	margin-left:-50px;
+	position: absolute;
+	bottom: 10px;
+}
+
+h1 {
+	color: #78CC37;
+	text-decoration: underline;
+	margin-top: 0px;
+}
+
+h2 {
+	color: #4f81c7;
+	text-decoration: underline;
+	margin-top: 50px;
+}
+
+.tab {
+	font-weight: bold;
+	color: #01AEF0;
+	text-decoration: underline;
+}
+
+.keyword {
+	font-weight: bold;
+}
+
+.main{
+	padding-top: 20px;
+	padding-left: 275px;
+
+}
+
+img {
+	margin-bottom: 25px;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.big-img {
+	width: 600px;
+}
+/* Colors
+
+f0d78c - Change this to green
+#78AA37 - Green
+fcfafa - White
+#01AEF0 - Light Blue
+4f81c7 - Darker BLue
+*/

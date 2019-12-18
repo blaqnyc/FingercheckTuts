@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	background-color: green;
+	width: 250px;
+	height: 100%;
+	position: fixed;
+}
+
